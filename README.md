@@ -1,4 +1,4 @@
-# 智能机器人课程作业
+# 智能机器人系统课程作业
 ## 简介
 本模拟实现了一个拥有五个自由度的机械手结构。活动关节分别为joint1~joint5。使用了一个Mesh文件来美化模型。
 ## 运行
@@ -15,7 +15,11 @@
 4. 执行 `roslaunch mrm_description rviz.launch` 可在 RViz 中查看机器人，可在 RViz 中加载 `mrm_description/launch/config.rviz` 配置或自定义配置；同时会打开 `Publisher` 窗口调参
 5. 执行 `roslaunch mrm_description spawn.launch` 可在 Gazebo 中运行模拟；同时会打开 `Publisher` 和 `Configure` 窗口调参
 ## 小组成员
-- 胡杨
-- 贺龙柱
+- 胡杨@北京邮电大学叶培大创新学院
+- 贺龙柱@北京邮电大学叶培大创新学院
+
+## 备注
+- 指导老师：李海源@课程名称：智能机器人系统
+- 时间：2022年1月10日
 ## 参考资料
 [The Construct 教程](https://www.theconstructsim.com/my-robotic-manipulator-1-basic-urdf-rviz/)
