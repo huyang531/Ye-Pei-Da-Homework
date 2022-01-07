@@ -1,4 +1,4 @@
-prefix=/home/huyang/simulation_ws/devel
+prefix=/media/psf/Home/Desktop/Courses/Robotics/ROS/simulation_ws/devel
 
 Name: mrm_description
 Description: Description of mrm_description
